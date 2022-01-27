@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vitoraraujo1711
-- 👀 I’m interested in ...Criação de projeyos utilizando a  programação.
+- 👀 I’m interested in ...Criação de projetos utilizando a  programação.
 - 🌱 I’m currently learning ...Programação WEB Front-End
 - 💞️ I’m looking to collaborate on ...Projetos WEB Front-End
 - 📫 How to reach me ...vitor171196@gmail.com
